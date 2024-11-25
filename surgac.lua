@@ -5,5 +5,6 @@ return {
     533297,  -- marc
     808139,  -- PIggy
     852336, -- RIM
-    78394 -- rong
+    78394, -- rong
+    704031 -- StillGoldLane
 }
