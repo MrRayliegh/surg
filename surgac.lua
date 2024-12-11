@@ -7,5 +7,6 @@ return {
     852336, -- RIM
     78394, -- rong
     704031, -- StillGoldLane
-    875651 -- maskyens
+    875651, -- maskyens
+    496448 --Meldis
 }
