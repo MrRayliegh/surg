@@ -8,5 +8,6 @@ return {
     78394, -- rong
     704031, -- StillGoldLane
     875651, -- maskyens
-    496448 --Meldis
+    496448, --Meldis
+    28656 -- Ipang
 }
