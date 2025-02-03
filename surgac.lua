@@ -9,5 +9,6 @@ return {
     704031, -- StillGoldLane
     875651, -- maskyens
     496448, --Meldis
-    28656 -- Ipang
+    28656, -- Ipang
+    801003 -- SXFCC
 }
