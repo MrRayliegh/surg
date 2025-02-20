@@ -10,5 +10,6 @@ return {
     875651, -- maskyens
     496448, --Meldis
     28656, -- Ipang
-    801003 -- SXFCC
+    801003, -- SXFCC
+    495681 -- Kentaro
 }
