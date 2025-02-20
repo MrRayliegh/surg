@@ -11,6 +11,5 @@ return {
     496448, --Meldis
     28656, -- Ipang
     801003, -- SXFCC
-    495681, -- Kentaro
-    565685 -- murim
+    495681 -- Kentaro
 }
