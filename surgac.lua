@@ -11,5 +11,6 @@ return {
     496448, --Meldis
     28656, -- Ipang
     801003, -- SXFCC
-    495681 -- Kentaro
+    495681, -- Kentaro
+    925839 --Albrobob
 }
