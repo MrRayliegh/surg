@@ -14,5 +14,6 @@ return {
     495681, -- Kentaro
     925839, --Albrobob
     470650, -- ppp
-    916366 -- zyre
+    916366, -- zyre
+    570661
 }
