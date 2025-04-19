@@ -17,5 +17,5 @@ return {
     916366, -- zyre
     570661, -- Jeremy
     931993, --desca
-    476212 -- Cloe
+    476212,477857 -- Cloe MAX
 }
