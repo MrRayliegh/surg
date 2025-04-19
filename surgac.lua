@@ -16,5 +16,6 @@ return {
     470650, -- ppp
     916366, -- zyre
     570661, -- Jeremy
-    931993 --desca
+    931993, --desca
+    476212 -- Cloe
 }
